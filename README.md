@@ -16,6 +16,8 @@ This can be deployed on any web server.
 
 ## How To Contribute
 
+Please fork this repository and then issue pull requests for review
+
 ### Copyright
 
 Copyright 2018 GIT training
