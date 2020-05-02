@@ -16,4 +16,7 @@ This can be deployed on any web server.
 
 ## How To Contribute
 
+### Copyright
+
+Copyright 2018 GIT training
 
